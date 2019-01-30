@@ -8,7 +8,6 @@ cryptography==2.1.4
 cycler==0.10.0
 Cython==0.29.3
 Django==1.11.11
--e git+https://github.com/droope/droopescan.git@bebcc39d9ed31513f1dbe49b7e20604b4ebe25ad#egg=droopescan
 duplicity==0.7.17
 enum34==1.1.6
 ephem==3.7.6.0
