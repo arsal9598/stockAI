@@ -47,4 +47,4 @@ setuptools-git==1.2
 six==1.12.0
 sqlparse==0.2.4
 subprocess32==3.5.3
-urllib3==1.24.1
+urllib3==1.26.5
